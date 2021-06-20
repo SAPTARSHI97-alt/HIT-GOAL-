@@ -1,0 +1,13 @@
+#myCanvas
+{
+    border-width:10px;
+    background-color: green; 
+    border-style:ridge;
+}
+
+.body_background 
+{
+    background-color: green;
+    background-position: center;
+    background-size: cover;
+}
